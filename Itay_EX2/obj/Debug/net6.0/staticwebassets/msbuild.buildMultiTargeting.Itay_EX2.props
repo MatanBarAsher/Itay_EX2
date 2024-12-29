@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Itay_EX2.props" />
+</Project>
